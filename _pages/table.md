@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /table/
-title: Table of Contents
+title: Array of Content
 ---
 
 
