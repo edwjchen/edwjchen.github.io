@@ -11,7 +11,6 @@
 
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
-    {% include analytics_head.html %}
   </head>
 
   <body>
@@ -24,7 +23,7 @@
 
             <div class="site-info">
               <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-              <p class="site-description">{{ site.description }}</p> 
+              <span class="site-description">{{ site.description }} </span> &nbsp;&nbsp;//&nbsp;&nbsp; <span> {% include icons.html %} </span>
             </div>
 
             <nav>
@@ -42,15 +41,13 @@
         </div>
       </div>
 
-      <div class="wrapper-footer">
+      <!-- <div class="wrapper-footer">
         <div class="container">
           <footer class="footer">
-            {% include svg-icons.html %}
+            {% include icons.html %}
           </footer>
         </div>
-      </div>
+      </div> -->
     </div>
-
-    {% include analytics.html %}
   </body>
 </html>

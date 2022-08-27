@@ -4,14 +4,8 @@ title: Climbing Mt. CSE 125
 categories: [Blog]
 ---
 
-
-### Helpful tips and takeaways from a former student and TA. 
-
 > The goal of CSE 125 is to experience the design and implementation of a large, complex software system in large groups. . . To make the class exciting as well as challenging, the project is a distributed, real-time, 3D, multiplayer game of each group's design."
 > <div style="text-align: right">—<a href="https://cse125.ucsd.edu/" target="_blank"> cse125.ucsd.edu</a> </div>
-
- 
-<hr />
 
 # Introduction
 
@@ -57,8 +51,6 @@ webcams off.
 As a past student and TA for the course during the start of the pandemic, I've laid
 out 4 helpful takeaways and tips that I believe will help teams climb the CSE 125
 mountain, Mt. CSE 125, especially in a remote environment.
-
-<hr />
 
 # 1. Get to Know Your Team
 
@@ -137,8 +129,6 @@ get to know each other better.
     </div>
 </div>
 
-<hr />
-
 # 2. Project Management
 One unique aspect of CSE 125 compared to other CSE courses is that the class structure is dependent on the team. There aren't any lectures that you need to attend --with the caveat of some amazing guest lectures-- or bi-weekly homework that you need to submit. Therefore all of the team's deadlines, design decisions, and productivity hours are established solely by the team. To ensure your team understands what needs to be done each week, I recommend that your team invests in a project management tool and have a regular project planning session.
 
@@ -189,8 +179,6 @@ Each week, our team would have a project planning session to understand which ta
 
 ![Salt Shaker Games Trello Board](../images/blog/cse125/trello.png)
 
-<hr />
-
 # 3. Group Coding
 
 Yes, I am talking about pair programming... but not exactly in the same sense as the traditional definition. With the lack of face-to-face interactions, it is often times hard to discuss game ideas and let the creativity flow between team members. It is also hard to get help and resolve blockers when there's a waiting time involved. In 2020, many of the teams would typically hop on a Zoom or Discord call and code together. They may not be exactly working on the same piece of code, but it is always nice to work in a more lively environment and have some friends to bounce ideas off of.
@@ -216,8 +204,6 @@ Yes, I am talking about pair programming... but not exactly in the same sense as
         </a>
     </div>
 </div>
-
-<hr />
 
 # 4. Game Design
 
@@ -274,7 +260,6 @@ Another example is [Stikbold!](https://www.youtube.com/watch?v=9uMG5lFRf5Y), a g
 ## Keep it simple
 Although there are very little restrictions on what type of game your team can build, there always seems to exist some unforeseen force that tries to mess things up. Some unknown bug in the animation code. Some deadlock in server causing the game to crash. Overestimating the time it takes to finish a task. For this course, I would recommend striving for having a ***simple working product*** first and leaving open ends to incorporate additional game features!
 
-<hr />
 
 # Conclusion
 If you've made it this far, I hope you found these takeaways insightful!
@@ -285,8 +270,6 @@ with that...
 #### I'm excited to see which mountains you will decide to climb :) ###
 
 ![Summit](../images/blog/cse125/summit.jpg)
-
-<hr />
 
 ##### Acknowledgements
 Special thanks to Kate, Leon, Sterling, and Charles for their productive feedback and revisions.
