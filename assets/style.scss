@@ -28,6 +28,8 @@ body {
     font-weight: 400;
     font-size: 18px;
     height: 100%;
+    visibility: hidden;
+    opacity: 0;
 }
 
 .light {
@@ -470,9 +472,8 @@ body:after {
 }
 
 .dark_title {
-    color: #aaa !important; 
+    color: #aaa !important;
 }
-
 
 #gh-latest {
     font-size: 16px;
@@ -518,7 +519,6 @@ body:after {
 .pagination {
     text-align: center;
 }
-
 
 /* Row */
 
@@ -1985,7 +1985,6 @@ i {
         color: $blue !important;
     }
 }
-
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
