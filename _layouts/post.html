@@ -7,9 +7,9 @@ layout: default
 
   <div>
     {%- include reading_time.html content=page.content -%}
-    <p class="author_title"> {{ page.date | date: "%b %-d, %Y" }} · {{ reading_time }} </p>
+    <p class="author_title light_title"> {{ page.date | date: "%b %-d, %Y" }} · {{ reading_time }} </p>
     {% if page.last_modified_at %}
-    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
+    <p class="author_title light_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
     {% endif %}
     <div class="post-tags">
       {% if post %}
