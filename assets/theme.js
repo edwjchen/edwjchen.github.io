@@ -6,12 +6,11 @@ function getTheme() {
     if (currentTheme) {
         return currentTheme;
     } else {
-        return "light"; // light by default
+        return "dark"; // dark by default
     }
 }
 
 function toggleTheme() {
-    // The theme starts as light.
     let theme = getTheme();
     if (theme == "light") {
         document.querySelector("body").classList.remove("light");
@@ -69,7 +68,6 @@ function toggleTheme() {
 }
 
 function setTheme() {
-    // The theme starts as light.
     let theme = getTheme();
     if (theme == "dark") {
         document.querySelector("body").classList.remove("light");

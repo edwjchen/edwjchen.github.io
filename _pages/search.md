@@ -10,6 +10,7 @@ permalink: /search/
 </div>
 
 <script src="{{ site.baseurl }}/assets/simple-jekyll-search.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/assets/theme.js"></script>
 
 <script>
     SimpleJekyllSearch({
