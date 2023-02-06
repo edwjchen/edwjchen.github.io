@@ -12,22 +12,23 @@ $(document).ready(function () {
     var url =
         "https://docs.google.com/spreadsheets/d/1q23_G_KuO8c4BbcoKXTLi2gOujwhvYN_ihzwljF4vpw/gviz/tq?tqx=out:json";
     fetch(url)
-        .then(response => response.text())
-        .then(data => {
+        .then((response) => response.text())
+        .then((data) => {
             data = data.slice(47, data.length);
             data = data.slice(0, data.length - 2);
             json = JSON.parse(data);
-            rows = json.table.rows; 
+            rows = json.table.rows;
             for (let r = 0; r < rows.length; r++) {
                 console.log("row", rows[r]["c"][1]["v"]);
                 ideas.push(rows[r]["c"][1]["v"]);
             }
+            shuffleArray(ideas);
         });
 });
 
 let i = 0;
 let content = "";
-let speed = 50;
+let speed = 30;
 
 function typeWriter() {
     if (i <= content.length) {
