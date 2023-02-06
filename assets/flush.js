@@ -18,7 +18,7 @@ $(document).ready(function () {
             data = data.slice(0, data.length - 2);
             json = JSON.parse(data);
             rows = json.table.rows; 
-            for (let r = 1; r < rows.length; r++) {
+            for (let r = 0; r < rows.length; r++) {
                 console.log("row", rows[r]["c"][1]["v"]);
                 ideas.push(rows[r]["c"][1]["v"]);
             }
