@@ -80,15 +80,16 @@ body {
   </div>  
   <div class="column">
     <img src="/images/photography/hon_apple.jpg" style="width:100%">
+    <img src="/images/photography/clytze.jpg" style="width:100%">
     <img src="/images/photography/forest.jpg" style="width:100%">
-    <img src="/images/photography/stanley_chair.jpg" style="width:100%">
-    <img src="/images/photography/waterfall.jpg" style="width:100%">
+    <img src="/images/photography/alice_dog.jpg" style="width:100%">
+
   </div>  
   <div class="column">
     <img src="/images/photography/cherry_blossom.jpg" style="width:100%">
     <img src="/images/photography/clover_grad.jpg" style="width:100%">
-    <img src="/images/photography/alice_dog.jpg" style="width:100%">
-    <img src="/images/photography/caroline_chair.jpg" style="width:100%">
+    <img src="/images/photography/stanley_chair.jpg" style="width:100%">
+    <img src="/images/photography/hokage.jpg" style="width:100%">
   </div>  
 </div>
 
