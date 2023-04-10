@@ -66,10 +66,10 @@ body {
 <div class="row"> 
   <div class="column">
     <img src="/images/photography/matt_chair.jpg" style="width:100%">
+    <img src="/images/photography/hannah_garden.jpg" style="width:100%">
     <img src="/images/photography/ballet.jpg" style="width:100%">
     <img src="/images/photography/nyc_wide.jpg" style="width:100%">
     <img src="/images/photography/erin_phipps.jpg" style="width:100%">
-    <img src="/images/photography/skywalk.jpg" style="width:100%">
   </div>
   <div class="column">
     <img src="/images/photography/chinese_traditional.jpg" style="width:100%">
@@ -90,6 +90,7 @@ body {
     <img src="/images/photography/clover_grad.jpg" style="width:100%">
     <img src="/images/photography/stanley_chair.jpg" style="width:100%">
     <img src="/images/photography/hokage.jpg" style="width:100%">
+    <img src="/images/photography/skywalk.jpg" style="width:100%">
   </div>  
 </div>
 
