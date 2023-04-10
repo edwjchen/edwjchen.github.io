@@ -82,7 +82,7 @@ body {
     <img src="/images/photography/hon_apple.jpg" style="width:100%">
     <img src="/images/photography/clytze.jpg" style="width:100%">
     <img src="/images/photography/forest.jpg" style="width:100%">
-    <img src="/images/photography/alice_dog.jpg" style="width:100%">
+    <img src="/images/photography/harrison_pascal.jpg" style="width:100%">
 
   </div>  
   <div class="column">
