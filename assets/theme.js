@@ -6,7 +6,7 @@ function getTheme() {
     if (currentTheme) {
         return currentTheme;
     } else {
-        return "dark"; // dark by default
+        return "light"; // dark by default
     }
 }
 
