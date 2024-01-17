@@ -4,7 +4,7 @@ title: ""
 categories: [Thoughts]
 ---
 
-##### Some of my favorite quotes:
+##### Some of my favorite quotes
 
 -- "One day or day one. You decide." by Paulo Coelho
 
